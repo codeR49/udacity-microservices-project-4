@@ -3,6 +3,7 @@
 
 
 
+[![CircleCI](https://circleci.com/gh/codeR49/udacity-microservices-project-4.svg?style=svg)](https://github.com/codeR49/udacity-microservices-project-4)
 
 ## Project Overview
 
